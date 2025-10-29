@@ -20,12 +20,12 @@
    ```
 
 2. **Dosyayı açın**:
-   - `index.html` dosyasını herhangi bir modern web tarayıcısında açın
+   - `index.html` dosyasını herhangi bir web tarayıcısında açın
    - Harita otomatik olarak yüklenecek ve kullanıma hazır olacak
 
 3. **Kullanım**:
    - Haritadaki herhangi bir ile tıklayın
-   - İl ismi popup olarak görüntülenecek
+   - İl ismi alert olarak görüntülenecek
    - İller üzerine mouse ile gelinerek hover efektlerini deneyimleyin
 
 ## Teknik Detaylar
@@ -34,4 +34,5 @@
 - **HTML5** - Semantic markup
 - **CSS3** - Modern styling ve animasyonlar
 - **Vanilla JavaScript** - Framework kullanmadan saf JS
+
 - **SVG** - Vektör grafik harita
